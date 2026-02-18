@@ -1,0 +1,22 @@
+AMD/INTEL:
+
+Download the latest one / Скачайте самый свежий драйвер 
+
+NVIDIA:
+
+Eng:
+To obtain the required driver file, please contact the person who provided the tweak.
+
+Rus:
+Чтобы получить файл нужного драйвера обратитесь к человеку который предоставлял твик.
+
+Driver versions / Версии драйверов:
+
+ARC Raiders          - 572.83
+Battlefield VI       - 581.42
+Counter-Strike 2     - 576.80
+Fortnite + APEX      - 581.29
+PUBG                 - 581.57
+RIVALS               - 576.02
+Siege + Valorant     - 580.88
+The Finals           - 581.08
